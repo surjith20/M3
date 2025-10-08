@@ -8,7 +8,6 @@ To write a program to prepare EMI calculator using function without return type 
 4.	Calculate EMI using the formula, amt=(prpow(1+r,t))/(pow(1+r,t)-1)
 5.	Display the result.
 6.	Stop the program.
-
 ## PROGRAM
 `````
 #include <stdio.h>
