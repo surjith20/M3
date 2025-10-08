@@ -44,9 +44,6 @@ int main()
 ## RESULT
 
 Thus the program to prepare EMI calculator using function without return type with arguments has been executed successfully
- 
- 
-
 
 # EX-12-FIBONACCI-SERIES
 ## AIM
