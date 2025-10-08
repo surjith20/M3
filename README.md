@@ -1,10 +1,7 @@
 # EX-11-EMI-CALCULATOR
 ## AIM
-
 To write a program to prepare EMI calculator using function without return type and with arguments.
-
 ## ALGORITHM
-
 1.	Start the program.
 2.	Read principal amount, rate of interest and months.
 3.	Pass these values as arguments to function.
